@@ -24,19 +24,19 @@ FileExtensions:
 - webp
 - xht
 - xhtml
-ReleaseDate: 2024-10-07
+ReleaseDate: 2024-10-14
 Installers:
 - Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/firefox/releases/132.0b4/win32/cak/Firefox%20Setup%20132.0b4.exe
-  InstallerSha256: 50D80D4CFA63093A85D5C9F54469F5447A27D9367F92ED84FB436C940187A7C2
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/firefox/releases/132.0b7/win32/cak/Firefox%20Setup%20132.0b7.exe
+  InstallerSha256: A86A3514AEA2F68410979A76D3A5A896E92BD3BA8B1BD6D6950CEA860FDF468D
   ProductCode: Firefox Developer Edition 132.0 (x86 cak)
 - Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/firefox/releases/132.0b4/win64/cak/Firefox%20Setup%20132.0b4.exe
-  InstallerSha256: 2113D696FD860A21C805F33F77F32CB84D38A799C99E59B0488C4C498CCA7A3E
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/firefox/releases/132.0b7/win64/cak/Firefox%20Setup%20132.0b7.exe
+  InstallerSha256: 4DDF65FE3D82BF2A55C75EC0C0E9A2D5DEE55F077C50343EA4023C3F69DD3ECF
   ProductCode: Firefox Developer Edition 132.0 (x64 cak)
 - Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/firefox/releases/132.0b4/win64-aarch64/cak/Firefox%20Setup%20132.0b4.exe
-  InstallerSha256: 7D0A5D23B62FBE93860D96765A4762685035F2ED80109136D5C9523513B4824B
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/firefox/releases/132.0b7/win64-aarch64/cak/Firefox%20Setup%20132.0b7.exe
+  InstallerSha256: 6DFB668E85B192ED19E9765C8F7373897E3343633DDE28CD2754BF04A20CC80B
   ProductCode: Firefox Developer Edition 132.0 (arm64 cak)
 ManifestType: installer
 ManifestVersion: 1.6.0
